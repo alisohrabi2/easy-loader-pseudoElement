@@ -35,7 +35,9 @@ body {
     border: 5px solid gray;
     border-radius: 50%;
     /* Add animations */
-    animation: span 1s linear infinite;
+    /* animation: span 1s linear infinite; */
+    /* Add animations reverse*/
+    animation: span 0.3s linear reverse infinite;
     /* adding space between animations */
     border-top-color: transparent;
     border-bottom-color: transparent;
